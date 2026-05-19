@@ -34,7 +34,7 @@ entitled ``GNU Free Documentation License.''
 
 @dircategory GNU Packages
 @direntry
-* mpc: (mpc)Multiple Precision Complex Library.
+* mpc: (mpc).                 Multiple Precision Complex Library.
 @end direntry
 
 
